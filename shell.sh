@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mysql --host=ms -uroot --password=pass -e "USE people"
+
 
 if [ $# -eq 2 ]
 	then
